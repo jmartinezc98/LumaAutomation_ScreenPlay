@@ -1,0 +1,10 @@
+{
+    "firstName": "Jhon",
+    "lastName": "Martinez",
+    "email": "jhonmarti@yopmail.com",
+    "password": "Pruebas123*",
+    "confirmPassword": "Pruebas123*",
+    "newsletter": true,
+    "remoteShopping": true
+  }
+  
